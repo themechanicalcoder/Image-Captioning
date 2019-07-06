@@ -10,6 +10,28 @@ A photo captioning deep learning model implemented in Keras.
 
         python generate_caption.py /path/to/image/
 
+## Result
+
 ### Image</br>
    ![390671130_09fdccd52f](https://user-images.githubusercontent.com/34737471/60752034-aa952280-9fdd-11e9-88f5-a795e56e4c6e.jpg)</br>
 ### Generated Text-startseq dog is running through the grass endseq</br>
+
+### Image</br>
+![bike](https://user-images.githubusercontent.com/34737471/60752269-217fea80-9fe1-11e9-9bdf-33f813cfd5b5.jpg)
+
+### Generated Text-startseq man in red helmet is riding bike endseq</br>
+
+### Image</br>
+![fight](https://user-images.githubusercontent.com/34737471/60752296-483e2100-9fe1-11e9-846b-627064fc7a2d.jpg)
+### Generated Text-startseq two men are playing soccer on the grass endseq</br>
+
+### Image</br>
+![play](https://user-images.githubusercontent.com/34737471/60752508-49bd1880-9fe4-11e9-9ea9-225fe6bb6b2d.jpg)
+### Generated text - startseq two girls are playing instruments endseq</br>
+
+
+
+# References</br>
+CS 231n-http://cs231n.stanford.edu/reports/2016/pdfs/362_Report.pdf</br>
+Andrej Karpathy Talk-https://cs.stanford.edu/people/karpathy/sfmltalk.pdf</br>
+Machine Learning Mastery-https://machinelearningmastery.com/
