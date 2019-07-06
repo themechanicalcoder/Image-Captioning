@@ -46,7 +46,7 @@ RAM-16gb</br>
 ![play](https://user-images.githubusercontent.com/34737471/60752508-49bd1880-9fe4-11e9-9ea9-225fe6bb6b2d.jpg)
 ### Generated text - startseq two girls are playing instruments endseq</br>
 
-
+Trained model can be fouond at {model}(https://drive.google.com/open?id=1sI8YyddKJqpdUIu4aTTLCcqy-gGQdY8l)<\br>
 
 # References</br>
 CS 231n-http://cs231n.stanford.edu/reports/2016/pdfs/362_Report.pdf</br>
