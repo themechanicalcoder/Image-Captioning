@@ -5,10 +5,10 @@ A photo captioning deep learning model implemented in Keras.
 
 ## Requirements
 Python 3</br>
-Keras(Gpu-Version with Cuda and CuDnn installed)</br>
-Tensorflow</br>
+Keras(2.2.4)(Gpu-Version with Cuda and CuDnn installed)</br>
+Tensorflow(1.9.0)</br>
 Numpy</br>
-Graphics Card( 1050 Ti 4gb)</br>
+Graphics Card( GE-Force 1050 Ti 4gb)</br>
 RAM-16gb</br>
 
 
