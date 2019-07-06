@@ -1,6 +1,9 @@
 # Image-Captioning-Keras
 
-A photo captioning deep learning model implemented in Keras.
+It is a photo caption generator which generates text describing the given image .</br>
+
+## How it works 
+
 
 
 ## Requirements
