@@ -11,6 +11,8 @@ Numpy</br>
 Graphics Card(4gb),RAM-16gb</br>
 
 
+## Network Structure
+![model;jpg](https://user-images.githubusercontent.com/34737471/60752799-77579100-9fe7-11e9-9654-a9cc6a5c1936.png)
 
 
 
