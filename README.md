@@ -2,9 +2,20 @@
 
 A photo captioning deep learning model implemented in Keras.
 
+
+## Requirements
+Python 3</br>
+Keras(Gpu-Version with Cuda and CuDnn installed)</br>
+Tensorflow</br>
+Numpy</br>
+
+
+
+
+
 ## Using the Caption generator
 
-1. Make sure you are in the directory `Image-Captioning-Keras`
+1. Change directory to the directory where the file generate_caption.py is located
 
 2. To generate  a caption , enter the following command:
 
