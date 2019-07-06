@@ -8,16 +8,17 @@ Python 3</br>
 Keras(Gpu-Version with Cuda and CuDnn installed)</br>
 Tensorflow</br>
 Numpy</br>
+Graphics Card(4gb),RAM-16gb</br>
 
 
 
 
 
 ## Using the Caption generator
+1. Clone the repository
+2. Change directory to the directory where the file generate_caption.py is located
 
-1. Change directory to the directory where the file generate_caption.py is located
-
-2. To generate  a caption , enter the following command:
+3. To generate  a caption , enter the following command:
 
         python generate_caption.py /path/to/image/
 
