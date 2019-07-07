@@ -7,7 +7,7 @@ It is a photo caption generator which generates text describing the given image 
 </br>
 2) Then the text is cleaned so that it is easier for the model to learn . The cleaning involves removing all the punctuations ,converting all uppercase letters to lower case letters removing words having length of one letter and then the description of each image is stored in 'descriptions.txt' . This is done in 'text.py'</br>
 </br>
-3)  For the model to generate we need a first kick off word and for the senntence to end we need a last kickoff word therefore we add "startseq" in the beginning of the string and "endseq" at the end of string .Each and every word is assigned a number and hence every sentence is converted into a vector. This is done using keras inbuilt Tokenizer . The created tokenizer is then stored in "tokenizer.pkl". This is done in "tok.py"</br>
+3) For the model to generate we need a first kick off word and for the senntence to end we need a last kickoff word therefore we add "startseq" in the beginning of the string and "endseq" at the end of string .Each and every word is assigned a number and hence every sentence is converted into a vector. This is done using keras inbuilt Tokenizer . The created tokenizer is then stored in "tokenizer.pkl". This is done in "tok.py"</br>
 </br>
 4)Then sequences are created because we know for the lstm to work we need to divide the sentence into prefix arrays</br>.
 For eg The sentence "startseq dog is running through the grass endseq" is divided into</br>
